@@ -1,0 +1,12 @@
+[
+    {
+        "codigo": 5032,
+        "nombre": "owen",
+        "documento": "12",
+        "destino": "Bogotá",
+        "hora": "8:00 AM",
+        "avion": "Airbus A320",
+        "asiento": 2,
+        "precio": 180000
+    }
+]
